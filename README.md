@@ -1,5 +1,6 @@
 # Screenshots from the project
 Landing Example Page (With JavaScript)
+https://alonsocota.github.io/Ejemplo-2/
 __________________________________________________________________________________________________________
 ![1](https://user-images.githubusercontent.com/40812564/42605587-b289e046-852d-11e8-84c7-5ca168de7c2d.JPG)
 ![2](https://user-images.githubusercontent.com/40812564/42605588-b2aaf4ca-852d-11e8-87a5-6288fdd3a775.JPG)
